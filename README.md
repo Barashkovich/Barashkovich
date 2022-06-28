@@ -1,6 +1,11 @@
 ![Header](https://github.com/Barashkovich/Barashkovich/blob/main/assets/Header_img.png)
 
-## I am a senior student majoring in mathematical software for control systems.
+### About Me
+ 
+  I am a senior student majoring in mathematical software for control systems. At the university I got acquainted with Linux, and also with some application programs like MathCad/Mathlab. Recently we have been studying C++ and in my profile you can find the course project that I defended this year. Last couple of months I started learning JavaScript for myself.
+#####
+  I have also been working as a presenter for a year at a programming school for children, [Softium](https://xn--h1aielghe.xn--d1acj3b/).I help the little ones develop basic computer skills. Those who are older are introduced to programming with the help of various programs and resources, starting with [Scratch](https://scratch.mit.ed) and [App Inventor](https://appinventor.mit.edu/) to Python and Tilda.
+
 
 ### Languages and Tools
 
